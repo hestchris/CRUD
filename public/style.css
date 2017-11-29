@@ -1,0 +1,18 @@
+/* Include the padding and border in an element's total width and height */
+
+table {
+  border-collapse: collapse;
+}
+table, th, td {
+    border: 1px solid black;
+}
+p {
+  font: verdana;
+}
+h2 {
+  font: sans-serif;
+}
+
+#delete:hover {background-color: #00cc66}
+
+}
